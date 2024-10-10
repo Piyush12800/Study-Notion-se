@@ -1,6 +1,6 @@
 # Study Notion Server
 
-This is a server-side EdTech application built using **Express.js** and **MongoDB** and **Razorpay** and **Cloudinary**. The server provides a RESTful API for managing resources, serving as the backend for web and mobile applications.
+This is a server-side EdTech application built using **Express.js** , **MongoDB** ,  **Razorpay** and **Cloudinary**. The server provides a RESTful API for managing resources, serving as the backend for web and mobile applications.
 
 ## Features
 
@@ -28,7 +28,7 @@ You can access the live version of the application at the following link: [Live 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Piyush12800/Srudy-Notion-se.git
+   git clone https://github.com/Piyush12800/Study-Notion-se.git
 2. Install dependencies
    ```bash
    npm install
